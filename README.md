@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Kim+Long+%F0%9F%91%8B;Aspiring+Data+Analyst;Passionate+about+Data+%26+Tech" alt="Typing SVG" />
+</p>
 # Hiii! I'm Kim Long
 
 ### 👨🏻‍💻 &nbsp;About Me
