@@ -1,4 +1,4 @@
-# Hi there, I'm Kim Long 👋
+# Hiiii! I'm Kim Long 👋
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="380" />
 
@@ -45,13 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/klongnguyen">
-    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=klongnguyen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="klongnguyen stats"/>
-  </a>
-  <a href="https://github.com/klongnguyen">
     <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=klongnguyen&layout=compact&langs_count=8&theme=algolia" alt="klongnguyen top langs"/>
   </a>
 </p>
 
-<p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com/?user=klongnguyen&theme=algolia&hide_border=true" alt="klongnguyen streak"/>
-</p>
