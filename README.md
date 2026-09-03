@@ -10,7 +10,7 @@
 🌱 &nbsp;Currently sharpening my skills in Advanced Data Analytics, SQL, Python, and Machine Learning.
 💬 &nbsp;Feel free to reach out for tech discussions, data topics, or project collaborations!
 ✉️ &nbsp;You can reach me via email at [nguyenkimlong261105@gmail.com]!
-📄 &nbsp;Check out my [Résumé]([your-resume-link-here](https://drive.google.com/file/d/1f_SiBjO9YWFg8xvb1trw6mO-XzUb4uRq/view?usp=drive_link)) for a detailed look at my background and projects.
+📄 &nbsp;Check out my [Résumé]([(https://drive.google.com/file/d/1f_SiBjO9YWFg8xvb1trw6mO-XzUb4uRq/view?usp=drive_link)]) for a detailed look at my background and projects.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -45,30 +45,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/klongnguyen">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klongnguyen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/klongnguyen">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klongnguyen&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=klongnguyen&theme=algolia&hide_border=true"/>
 </p>
-
-### 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=klongnguyen&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="klongnguyen's github trophies" />
-  </a>
-</p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
