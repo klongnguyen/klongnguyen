@@ -1,17 +1,15 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hiii, I'm Kim Long</h2>
 
-<!-- ## 👋 &nbsp;Hiii, I'm Kim Long -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am an aspiring Data Analyst passionate about data-driven decision-making and business intelligence solutions.
-💡 &nbsp;I enjoy building end-to-end data pipelines, conducting exploratory data analysis, and designing insightful dashboards.
-🎓 &nbsp;Final-year Information Technology student at Ho Chi Minh City University of Industry and Trade (HUIT).
-🌱 &nbsp;Currently sharpening my skills in Advanced Data Analytics, SQL, Python, and Machine Learning.
-💬 &nbsp;Feel free to reach out for tech discussions, data topics, or project collaborations!
-✉️ &nbsp;You can reach me via email at [nguyenkimlong261105@gmail.com]!
-📄 &nbsp;Check out my [Résumé]([(https://drive.google.com/file/d/1f_SiBjO9YWFg8xvb1trw6mO-XzUb4uRq/view?usp=drive_link)]) for a detailed look at my background and projects.
-
+👨‍💻 &nbsp;I am an aspiring Data Analyst passionate about data-driven decision-making and business intelligence solutions.<br/>
+💡 &nbsp;I enjoy building end-to-end data pipelines, conducting exploratory data analysis, and designing insightful dashboards.<br/>
+🎓 &nbsp;Final-year Information Technology student at Ho Chi Minh City University of Industry and Trade (HUIT).<br/>
+🌱 &nbsp;Currently sharpening my skills in Advanced Data Analytics, SQL, Python, and Machine Learning.<br/>
+💬 &nbsp;Feel free to reach out for tech discussions, data topics, or project collaborations!<br/>
+✉️ &nbsp;You can reach me via email at [nguyenkimlong261105@gmail.com](mailto:nguyenkimlong261105@gmail.com)!<br/>
+📄 &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1f_SiBjO9YWFg8xvb1trw6mO-XzUb4uRq/view?usp=drive_link) for a detailed look at my background and projects.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
