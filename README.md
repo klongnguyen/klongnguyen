@@ -1,4 +1,4 @@
-# Hey there! I'm Kim Long
+# Hiii! I'm Kim Long
 
 ### 👨🏻‍💻 &nbsp;About Me
 
