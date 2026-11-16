@@ -101,14 +101,6 @@
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=klongnguyen&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
-
-</div>
-
 <!-- ============================== PROJECTS ============================== -->
 
 ## 🚀 Featured Projects
