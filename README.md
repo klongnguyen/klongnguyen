@@ -71,10 +71,7 @@
 ### 🧰 Tools & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,arduino&perline=8" alt="Tools"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="NotebookLM"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Git, GitHub, VS Code" height="48"/><img src="assets/canva.svg" alt="Canva" title="Canva" height="48"/>&nbsp;<img src="assets/notebooklm.svg" alt="NotebookLM" title="NotebookLM" height="48"/>
 </p>
 
 <!-- ============================== STATS ============================== -->
