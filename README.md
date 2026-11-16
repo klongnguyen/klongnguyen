@@ -38,40 +38,49 @@
 ### 📈 Data Analysis & BI
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="assets/powerbi.svg" alt="Power BI" title="Power BI" height="48"/>&nbsp;
+  <img src="assets/excel.svg" alt="Excel" title="Excel" height="48"/>&nbsp;
+  <img src="assets/sheets.svg" alt="Google Sheets" title="Google Sheets" height="48"/>&nbsp;
+  <img src="assets/pandas.svg" alt="Pandas" title="Pandas" height="48"/>&nbsp;
+  <img src="assets/numpy.svg" alt="NumPy" title="NumPy" height="48"/>&nbsp;
+  <img src="assets/jupyter.svg" alt="Jupyter" title="Jupyter" height="48"/>
 </p>
 
 ### 🤖 Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" title="sklearn" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" title="tensorflow" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" title="pytorch" height="48"/>
 </p>
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cs,cpp,c&perline=8" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="py" title="py" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" alt="cs" title="cs" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" title="cpp" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="c" title="c" height="48"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="assets/sqlserver.svg" alt="SQL Server" title="SQL Server" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="postgres" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="mongodb" height="48"/>
 </p>
 
 ### 🧰 Tools & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" alt="Git, GitHub, VS Code" height="48"/><img src="assets/canva.svg" alt="Canva" title="Canva" height="48"/>&nbsp;<img src="assets/notebooklm.svg" alt="NotebookLM" title="NotebookLM" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" title="git" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="github" title="github" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="vscode" height="48"/>&nbsp;
+  <img src="assets/dbeaver.svg" alt="DBeaver" title="DBeaver" height="48"/>&nbsp;
+  <img src="assets/laragon.svg" alt="Laragon" title="Laragon" height="48"/>&nbsp;
+  <img src="assets/canva.svg" alt="Canva" title="Canva" height="48"/>&nbsp;
+  <img src="assets/notebooklm.svg" alt="NotebookLM" title="NotebookLM" height="48"/>
 </p>
 
 <!-- ============================== STATS ============================== -->
