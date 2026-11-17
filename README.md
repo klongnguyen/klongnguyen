@@ -42,8 +42,7 @@
   <img src="assets/excel.svg" alt="Excel" title="Excel" height="48"/>&nbsp;
   <img src="assets/sheets.svg" alt="Google Sheets" title="Google Sheets" height="48"/>&nbsp;
   <img src="assets/pandas.svg" alt="Pandas" title="Pandas" height="48"/>&nbsp;
-  <img src="assets/numpy.svg" alt="NumPy" title="NumPy" height="48"/>&nbsp;
-  <img src="assets/jupyter.svg" alt="Jupyter" title="Jupyter" height="48"/>
+  <img src="assets/numpy.svg" alt="NumPy" title="NumPy" height="48"/>
 </p>
 
 ### 🤖 Machine Learning
@@ -78,9 +77,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="github" title="github" height="48"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="vscode" height="48"/>&nbsp;
   <img src="assets/dbeaver.svg" alt="DBeaver" title="DBeaver" height="48"/>&nbsp;
-  <img src="assets/laragon.svg" alt="Laragon" title="Laragon" height="48"/>&nbsp;
-  <img src="assets/canva.svg" alt="Canva" title="Canva" height="48"/>&nbsp;
-  <img src="assets/notebooklm.svg" alt="NotebookLM" title="NotebookLM" height="48"/>
+  <img src="assets/laragon.svg" alt="Laragon" title="Laragon" height="48"/>
 </p>
 
 <!-- ============================== STATS ============================== -->
